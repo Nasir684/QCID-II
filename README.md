@@ -1,5 +1,4 @@
 # QCID-II: Quantum Cellular Intelligence Dataset v2
-
 QCID-II is a benchmark dataset for developing and evaluating machine learning models on Quantum Cellular Automata (QCA) systems. This dataset is designed to accelerate research in quantum-inspired machine learning, physics simulation, and computational modeling of quantum systems.
 
 ## 📦 Download & DOI
