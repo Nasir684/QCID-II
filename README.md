@@ -31,3 +31,15 @@ import numpy as np
 data = np.load('qcid2_train.npz')
 X_train, y_train = data['X'], data['y']
 print(f"Dataset loaded: {X_train.shape[0]} samples")
+## 📖 Citation
+If you use QCID-II in your research, please cite:
+```bibtex
+@dataset{khan2026qcid2,
+  author = {Khan, Nasir},
+  title = {QCID-II: The Stability Selection of Three Spatial Dimensions},
+  year = {2026},
+  doi = {10.5281/zenodo.22581218},
+  url = {https://doi.org/10.5281/zenodo.22581218}
+## 📬 Contact
+**Author**: Nasir Khan  
+For questions, issues, or contributions, please open a GitHub Issue.
