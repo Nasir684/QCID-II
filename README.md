@@ -26,6 +26,5 @@ Example notebooks and baseline code are included.
 ## 🚀 Quick Start
 ```python
 import pandas as pd
-
 df = pd.read_csv('qcid2_sample.csv')
 print(df.head())
